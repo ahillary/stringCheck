@@ -1,0 +1,19 @@
+{
+  "name": "finicity",
+  "version": "1.0.0",
+  "description": "coding assessment for Finicity",
+  "main": "stringCheck.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahillary/stringCheck.git"
+  },
+  "author": "Hillary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahillary/stringCheck/issues"
+  },
+  "homepage": "https://github.com/ahillary/stringCheck#readme"
+}
